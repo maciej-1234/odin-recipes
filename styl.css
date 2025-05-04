@@ -15,3 +15,9 @@ img{
     display: flex;
     margin: 20px auto;
 }
+ul{ 
+    display: flex; justify-content: center; background-image: linear-gradient( to right,red,yellow); margin: auto; 
+} 
+a:hover{ 
+    font-size: 25px; color: red; 
+}
