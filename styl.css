@@ -1,0 +1,28 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+    margin: 10px;
+    
+}
+h1{
+    text-align: center;
+    background-color: grey;
+    margin: 25px 10px;
+    
+}
+img{
+    width: 50%;
+    height: auto;
+    display: flex;
+    margin: 20px auto;
+}
+ul{
+    /* margin: 25px 0px; */
+    display: flex;
+    justify-content: center;
+    background-image: linear-gradient( to right,red,yellow);
+    margin: auto;
+}
+a:hover{
+    font-size: 25px;
+    color: red;
+}
